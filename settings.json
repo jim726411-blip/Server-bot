@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dogfish.aternos.host:57553",
+    "ip": "StacksSMPprivte.aternos.me:57553",
     "port": 57553,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
