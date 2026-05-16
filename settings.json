@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StacksSMPprivte.aternos.me:57553",
+    "ip": "StacksSMPprivte.aternos.me",
     "port": 57553,
     "version": "",
     "try-creative": false
