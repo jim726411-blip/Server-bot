@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "StacksSMP.play.hosting",
-    "port": 57565,
-    "version": "",
+    "ip": "StacksSMPprivte.aternos.me:57553",
+    "port": 57553,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
